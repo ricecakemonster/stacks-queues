@@ -35,7 +35,7 @@ class JobSimulation
       @waiting.dequeue
     end
 
-        print "dice number : #{@roll}\n"
+    print "dice number : #{@roll}\n"
 
   end
 
